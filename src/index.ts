@@ -1,3 +1,3 @@
-import MyCounter from './components/App'
+import { FormikReactSelect } from './components/FormikReactSelect'
 
-export { MyCounter }
+export { FormikReactSelect }
